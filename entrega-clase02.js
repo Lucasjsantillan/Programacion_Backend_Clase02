@@ -62,5 +62,3 @@ try {
 console.log(productManager.getProducts());
 
 console.log(productManager.getProductById(1));
-
-
